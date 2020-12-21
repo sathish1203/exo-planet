@@ -1,0 +1,30 @@
+I, [2020-12-22T00:57:36.087933 #4720]  INFO -- : 1.	The number of orphan planets is 2
+I, [2020-12-22T00:57:36.087933 #4720]  INFO -- : 2.	The name of the planet orbiting the hottest star is V391 Peg b
+I, [2020-12-22T00:57:36.087933 #4720]  INFO -- : 3.	The timeline data is
+I, [2020-12-22T00:57:36.088931 #4720]  INFO -- :   	In year 1781, there were 1 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.088931 #4720]  INFO -- :   	In year 1846, there were 1 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.088931 #4720]  INFO -- :   	In year 1930, there were 1 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.088931 #4720]  INFO -- :   	In year 1992, there were 0 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.088931 #4720]  INFO -- :   	In year 1994, there were 0 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 1995, there were 0 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 1996, there were 0 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 1997, there were 0 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 1998, there were 0 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 1999, there were 0 small planets, 1 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2000, there were 0 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2001, there were 1 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2002, there were 0 small planets, 1 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2003, there were 0 small planets, 0 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2004, there were 2 small planets, 5 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2005, there were 1 small planets, 3 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2006, there were 1 small planets, 6 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2007, there were 4 small planets, 16 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2008, there were 1 small planets, 21 medium planets, 1 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2009, there were 4 small planets, 6 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2010, there were 15 small planets, 39 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2011, there were 32 small planets, 48 medium planets, 1 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2012, there were 52 small planets, 21 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2013, there were 58 small planets, 30 medium planets, 2 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2014, there were 830 small planets, 30 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2015, there were 104 small planets, 30 medium planets, 0 large planets discovered.
+I, [2020-12-22T00:57:36.090033 #4720]  INFO -- :   	In year 2016, there were 1267 small planets, 26 medium planets, 0 large planets discovered.
